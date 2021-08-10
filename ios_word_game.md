@@ -322,6 +322,4 @@ This license agreement is governed by the laws of \_\_\_\_\_\_\_\_\_\_ excluding
 
 16.1 If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.   16.2 Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing. 
 
-ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
 
-These terms of use were created using [Termly’s Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/?ftseo).

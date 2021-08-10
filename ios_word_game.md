@@ -81,7 +81,8 @@ The Application is not tailored to comply with industry-specific regulations (He
 
 2.8  Nothing in this license should be interpreted to restrict third-party terms. When using the Application, You must ensure that You comply with applicable third-party terms and conditions.
 
-  
+2.9 This app provides auto-renewable next subscriptions:
+  - Infinite coins for a Month ($82.99 USD) witth titled as "Kryss quizlet games"
 
   
 

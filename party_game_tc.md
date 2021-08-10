@@ -34,6 +34,14 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 
 These terms and conditions are effective as of 2021-08-09
 
+**Licensing**
+
+App contains Auto-renewable subscriptions:
+
+•  Week ($9.99)
+•  Month ($24.49) 
+•  Year ($59.99)
+
 **Contact Us**
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at 7va.word@gmail.com.

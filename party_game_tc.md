@@ -38,9 +38,9 @@ These terms and conditions are effective as of 2021-08-09
 
 App contains Auto-renewable subscriptions:
 
-•  Week ($9.99)
-•  Month ($24.49) 
-•  Year ($59.99)
+•  Week ($6.99) with 3 day's free trial
+•  Month ($19.99) 
+•  Year ($39.99)
 
 **Contact Us**
 

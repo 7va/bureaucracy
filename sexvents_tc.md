@@ -42,6 +42,11 @@ App contains Auto-renewable subscriptions:
 •  Month ($17.49) 
 •  Year ($79.99)
 
+**IMPORTANT**
+This app and app authors NOT facilitate or encourage prostitution or payments, gifts, or compensation for companionship!!!
+We believe that the only true pleasure may have only with like-minded people with open feelings and no money-based interest.
+This app just open for you places where you can find some people you like.
+
 **Contact Us**
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at 7va.word@gmail.com.

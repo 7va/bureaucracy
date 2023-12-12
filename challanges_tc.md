@@ -56,4 +56,12 @@ Please read these Terms and Conditions ("Agreement") carefully before using the 
 
 - Email: [7va.kinky@gmail.com](mailto:7va.kinky@gmail.com)
 
+**Licensing**
+
+App contains Auto-renewable subscriptions:
+
+•  Week ($1.99)
+•  Month ($4.99) 
+•  Year ($45.99)
+
 By using the Daily Challenge mobile App, you signify your acceptance of this Agreement.
